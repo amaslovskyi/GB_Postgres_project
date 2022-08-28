@@ -76,6 +76,7 @@ create table groups (
 create table posts (
     id SERIAL primary key,
     post_title VARCHAR(200) unique,
+    body TEXT,
     creator_id INT not null,
     created_at DATE not null
 );
