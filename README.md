@@ -1,6 +1,8 @@
 # GB_Postgres_project
 Сourse project on postgres, GeekBrains
+
 ----------- Part_1 -----------
+
 - Analysing Business logic and creating DB structure;
 - tables.sql - tables structure
 ----------- Part_2 -----------
