@@ -43,6 +43,6 @@
 
 - Create triger - Part_9/triger.sql
 
---------------------------- Part_1  --------------------------
+--------------------------- Part_10 --------------------------
 
 - Make an optimization in one of the advanced request - optimum.sql
