@@ -11,6 +11,7 @@
 - Filling DB with fake data "https://www.mockaroo.com/" (100_strings);
 - Part_2/data - fake data structure;
 - Part_2/dump - export dump.
+
 --------------------------- Part_3  --------------------------
 
 - Creating Foreign keys
