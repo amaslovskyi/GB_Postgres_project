@@ -7,7 +7,7 @@ ADD CONSTRAINT experiencies_id_fk FOREIGN KEY (id) REFERENCES users (id);
 -- Education
 ALTER TABLE educations
 ADD CONSTRAINT educations_id_fk FOREIGN KEY (id) REFERENCES experiencies (id);
--- Education
+-- Docs
 ALTER TABLE docs
 ADD CONSTRAINT docs_owner_id_fk FOREIGN KEY (owner_id) REFERENCES users (id) ON DELETE CASCADE;
 -- Messages
